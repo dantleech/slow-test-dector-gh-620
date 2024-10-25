@@ -8,6 +8,6 @@ class FooTest extends TestCase
 {
     public function testFoo(): void
     {
-        var_dump(\Composer\InstalledVersions::getVersion('cuyz/valinor'));
+        var_dump(\Composer\InstalledVersions::getVersion('phpunit/phpunit'));
     }
 }

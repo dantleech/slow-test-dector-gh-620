@@ -15,8 +15,5 @@
             "name": "Daniel Leech",
             "email": "daniel@dantleech.com"
         }
-    ],
-    "require": {
-        "cuyz/valinor": "1.12.0"
-    }
+    ]
 }
