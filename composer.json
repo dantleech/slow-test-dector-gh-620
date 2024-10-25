@@ -1,0 +1,22 @@
+{
+    "name": "daniel/example",
+    "autoload": {
+        "psr-4": {
+            "Daniel\\Example\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Daniel\\Example\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Leech",
+            "email": "daniel@dantleech.com"
+        }
+    ],
+    "require": {
+        "cuyz/valinor": "1.12.0"
+    }
+}
